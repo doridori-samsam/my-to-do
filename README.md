@@ -4,7 +4,7 @@
 📌 My to do 배포 URL : https://web-to-do-8b4d0.web.app/
 <br>
 <br>
-<img src="https://media.discordapp.net/attachments/698529846565011531/1034801128283582575/unknown.png">
+<img src="https://media.discordapp.net/attachments/698529846565011531/1034801128283582575/unknown.png" width="50px" height="80px">
 <img src="https://media.discordapp.net/attachments/698529846565011531/1034801419485708358/unknown.png">
 
 <h2>📄개요</h2>
