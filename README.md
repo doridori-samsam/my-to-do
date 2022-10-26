@@ -29,6 +29,36 @@ My to do는 원티드 프리온보딩 챌린지에서 로컬서버를 기반으�
 </br>
 <div>📌 BackEnd : <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black"></div>
 <br/>
-📌 Daum Postcode Service API 사용
-<br/>
 📌 Version :
+
+```
+react : "18.2.0"
+react-router-dom : "6.3.0"
+firebase: "9.9.3"
+styled-components: "5.3.5"
+@emotion/react: "11.10.0"
+@emotion/styled: "11.10.0"
+@mui/icons-material: "5.10.2"
+@mui/material: "5.10.2"
+@testing-library/jest-dom: "5.16.5"
+@testing-library/react: "13.3.0"
+@testing-library/user-event: "13.5.0"
+```
+
+<br>
+<h2>🎨구현 기능</h2>
+
+- 🔐 계정
+
+  - 로그인 / 로그아웃
+  - 회원가입
+
+- 🏠 홈
+
+  - 투두리스트 목록
+  - 새 투두리스트 추가
+  - 햄버거 메뉴
+
+- 📄 투두리스트
+  - 투두리스트 삭제
+  - 투두리스트 수정
