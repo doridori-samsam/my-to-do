@@ -5,8 +5,8 @@
 <br>
 <br>
 <div>
-<img src="https://media.discordapp.net/attachments/698529846565011531/1034801128283582575/unknown.png" width="300px" height="380px">
-<img src="https://media.discordapp.net/attachments/698529846565011531/1034801419485708358/unknown.png" width="300px" height="380px">
+<img src="https://media.discordapp.net/attachments/698529846565011531/1034802568427225148/unknown.png" width="300px" height="380px">
+<img src="https://media.discordapp.net/attachments/698529846565011531/1034802461841555466/unknown.png" width="300px" height="380px">
 </div>
 
 <h2>📄개요</h2>
