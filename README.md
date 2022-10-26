@@ -4,6 +4,8 @@
 📌 My to do 배포 URL : https://web-to-do-8b4d0.web.app/
 <br>
 <br>
+<img src="https://media.discordapp.net/attachments/698529846565011531/1034801128283582575/unknown.png">
+
 <h2>📄개요</h2>
 
 ```
@@ -62,3 +64,11 @@ styled-components: "5.3.5"
 - 📄 투두리스트
   - 투두리스트 삭제
   - 투두리스트 수정
+
+</br>
+<br>
+<h2>✨코드 포인트</h2>
+#### ✔ styled-components와 mui를 활용한 반응형 웹디자인
+#### ✔ context API를 사용한 사용자 로그인/로그아웃 상태 관리
+#### ✔ context, useReducer훅을 포함한 custom hooks로 회원가입/로그인/로그아웃 기능 및 firebase 훅 사용
+#### ✔ env 파일에 환경변수 설정으로 firebase api 관련 설정 보안
