@@ -23,7 +23,12 @@ My to do는 원티드 프리온보딩 챌린지에서 로컬서버를 기반으�
 
 <div align=left>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-<!-- <img src="https://img.shields.io/badge/styled-components-%DB7893?style=for-the-badge&logo=styled-components&logoColor=black"> -->
 <img src="https://img.shields.io/badge/styled components-%23DB7893?style=for-the-badge&logo=styled-components&logoColor=white">
 <img src="https://img.shields.io/badge/mui-%23007FFF?style=for-the-badge&logo=mui&logoColor=white">
 </div>
+</br>
+📌 BackEnd : <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black">
+<br/>
+📌 Daum Postcode Service API 사용
+<br/>
+📌 Version :
