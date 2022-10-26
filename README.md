@@ -27,7 +27,7 @@ My to do는 원티드 프리온보딩 챌린지에서 로컬서버를 기반으�
 <img src="https://img.shields.io/badge/mui-%23007FFF?style=for-the-badge&logo=mui&logoColor=white">
 </div>
 </br>
-📌 BackEnd : <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black">
+<div>📌 BackEnd : <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black"></div>
 <br/>
 📌 Daum Postcode Service API 사용
 <br/>
