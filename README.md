@@ -78,11 +78,15 @@ styled-components: "5.3.5"
 Material-UI 라이브러리를 사용하여 깔끔한 디자인을 구현하였습니다. 또한 사용자 액션에 맞는 적절한 UI 애니메이션 효과도 구현하였습니다.
 styled-components로 코드를 간결화하여 가독성을 높였습니다.
 
+---
+
 #### ✔ context API를 사용한 사용자 로그인/로그아웃 상태 관리
 
 https://github.com/doridori-samsam/my-to-do/blob/66c0eafea8132b79187e2553a0a270f3bcae2034/src/context/AuthContext.jsx#L3-L26
 
 사용자가 로그인/로그아웃 할 때마다 그에 따른 상태 관리를 context API와 useReducer 훅으로 구현하였습니다.
+
+---
 
 #### ✔ context, useReducer훅을 포함한 custom hooks로 회원가입/로그인/로그아웃 기능 및 firebase 훅 사용
 
@@ -90,6 +94,37 @@ https://github.com/doridori-samsam/my-to-do/blob/66c0eafea8132b79187e2553a0a270f
 
 회원가입/로그인/로그아웃 기능을 포함한 firebase 관련 투두리스트 추가/수정/삭제 기능을 useReducer를 활용하여 custom hooks로 컴포넌트화하여 코드 재사용성/유지보수성을 높였습니다.
 
+---
+
 #### ✔ env 파일에 환경변수 설정으로 firebase api 관련 설정 보안
 
 노출되면 안되는 firebase auth 설정 값들을 .env 파일에 환경 변수로 저장하고 관리하여 보안성을 높였습니다.
+
+---
+
+<br>
+<h2>📂폴더트리</h2>
+
+```
+📦 src
+ ┣📂 components
+ ┃ ┣📂 Button
+ ┃ ┣📂 Modal
+ ┃ ┣ NotFound.jsx
+ ┃ ┗ Today.jsx
+ ┣📂 context
+ ┣📂 firebase
+ ┣📂 hooks
+ ┣📂 pages
+ ┃ ┣📂 home
+ ┃ ┣📂 logIn
+ ┃ ┣📂 signUp
+ ┃ ┗📂 toDoPage
+ ┣📜 App.css
+ ┣📜 App.jsx
+ ┣📜 index.css
+ ┗📜 index.js
+
+```
+
+</br>
